@@ -7,7 +7,7 @@
 | Field | Detail |
 |---|---|
 | Ticket ID | PHI-003 |
-| Date Opened | 26-04-07 |
+| Date Opened | 1026-04-07 |
 | Analyst | Christopher Rice |
 | Priority | Critical |
 | Status | Closed |
