@@ -47,10 +47,10 @@ False Positive    Phishing Confirmed
 
 | Ticket ID | Subject / Lure | Payload Type | Verdict | User Interaction | Escalated | Linked IR |
 |---|---|---|---|---|---|---|
-| [PHI-001](./tickets/PHI-001-invoice-lnk.md) | Unpaid Invoice — B Packaging Inc | LNK in encrypted ZIP | ✅ Confirmed Phishing | Yes — attachment opened | Yes | [IR-003](https://github.com/Qwortie/soc-home-lab/blob/main/docs/incident-reports/IR-003-boogeyman-campaign.md) |
-| [PHI-002](./tickets/PHI-002-resume-macro.md) | Job Application — Wesley Taylor | VBA Macro .doc | ✅ Confirmed Phishing | Yes — attachment opened | Yes | [IR-003](https://github.com/Qwortie/soc-home-lab/blob/main/docs/incident-reports/IR-003-boogeyman-campaign.md) |
-| [PHI-003](./tickets/PHI-003-ceo-iso.md) | Executive Targeting — ISO Payload | ISO container / rundll32 | ✅ Confirmed Phishing | Yes — attachment opened | Yes | [IR-003](https://github.com/Qwortie/soc-home-lab/blob/main/docs/incident-reports/IR-003-boogeyman-campaign.md) |
-| [PHI-004](./tickets/PHI-004-follina-invoice.md) | Malicious Invoice — CVE-2022-30190 | .doc / MSDT Follina | ✅ Confirmed Phishing | Yes — document opened | Yes | [IR-002](https://github.com/Qwortie/soc-home-lab/blob/main/docs/incident-reports/IR-002-tempest-full-chain.md) |
+| [PHI-001](./tickets/PHI-001-invoice-lnk.md) | Unpaid Invoice — B Packaging Inc | LNK in encrypted ZIP | ✅ Confirmed Phishing | Yes — attachment opened | Yes | [IR-002](https://github.com/Qwortie/soc-home-lab/blob/main/docs/incident-reports/IR-002-boogeyman.md) |
+| [PHI-002](./tickets/PHI-002-resume-macro.md) | Job Application — Wesley Taylor | VBA Macro .doc | ✅ Confirmed Phishing | Yes — attachment opened | Yes | [IR-002](https://github.com/Qwortie/soc-home-lab/blob/main/docs/incident-reports/IR-002-boogeyman.md) |
+| [PHI-003](./tickets/PHI-003-ceo-iso.md) | Executive Targeting — ISO Payload | ISO container / rundll32 | ✅ Confirmed Phishing | Yes — attachment opened | Yes | [IR-002](https://github.com/Qwortie/soc-home-lab/blob/main/docs/incident-reports/IR-002-boogeyman.md) |
+| [PHI-004](./tickets/PHI-004-follina-invoice.md) | Malicious Invoice — CVE-2022-30190 | .doc / MSDT Follina | ✅ Confirmed Phishing | Yes — document opened | Yes | [IR-001](https://github.com/Qwortie/soc-home-lab/blob/main/docs/incident-reports/IR-001-tempest-full-chain.md) |
 
 ---
 
